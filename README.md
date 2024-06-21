@@ -12,4 +12,9 @@
 
 4.生成xlsx的汇总表格及每轮对战图片
 
-![image](https://github.com/cat-xierluo/guandanbisai/blob/main/%E5%AF%B9%E6%88%98%E6%8E%92%E8%A1%A8%E7%94%9F%E6%88%90%E7%A4%BA%E4%BE%8B.png?raw=true)        
+下面是最终生成的文件
+![image](https://github.com/cat-xierluo/guandanbisai/blob/main/%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9.png?raw=true)            
+
+
+下面是最终生成的对战图片
+![image](https://github.com/cat-xierluo/guandanbisai/blob/main/%E5%AF%B9%E6%88%98%E6%8E%92%E8%A1%A8%E7%94%9F%E6%88%90%E7%A4%BA%E4%BE%8B.png?raw=true)            
